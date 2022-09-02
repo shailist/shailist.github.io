@@ -215,7 +215,7 @@ We can use this to load our module:
 ```python
 import reverse_utf_8
 ```
-{! file='reverse_utf_8.pth'}
+{: file='reverse_utf_8.pth'}
 
 Chuck this file into the `site-packages` folder and run our reversed file:
 

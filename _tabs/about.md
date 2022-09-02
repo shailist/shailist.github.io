@@ -7,7 +7,7 @@ order: 4
 Hello there!
 
 My name is Shai List.  
-I'm an Israeli 22 years software developer.  
+I'm a 22 years software developer.  
 I really like programming for some reason.  
 > I also like gaming and content creation but that's probably not why you are here.
 

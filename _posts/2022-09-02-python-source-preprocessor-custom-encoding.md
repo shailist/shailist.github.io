@@ -287,7 +287,7 @@ setup(
 )
 
 ```
-{! file='setup.py'}
+{: file='setup.py'}
 
 Getting the `site-packages` by just using `get_python_lib()` isn't enough, since `wheel`s process paths differently.  
 Converting the path to be relative to the `sys.prefix` solves the issue.
